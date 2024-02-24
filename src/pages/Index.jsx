@@ -22,7 +22,6 @@ const Index = () => {
             <TabPanel>
               <Heading size="lg">Workflows</Heading>
               <Text>Manage your workflows here.</Text>
-              <WorkflowGraph />
             </TabPanel>
             {/* Other panels are omitted for brevity */}
           </TabPanels>
